@@ -83,3 +83,8 @@ Add more gestures (like “Peace” or “OK” sign)
 Show emojis or play sound when each gesture is detected
 
 Build a mobile version using TensorFlow Lite
+
+Successfully built my first AI model using Google’s Teachable Machine!
+The model can recognize Thumbs Up 👍 and Thumbs Down 👎 gestures in real-time using my webcam.
+Learned how machine learning models are trained using user-provided data.
+#AI #MachineLearning #TeachableMachine #DeepLearning #Project
